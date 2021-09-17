@@ -1,0 +1,11 @@
+{
+ "name": "Land of Strife",
+ "website": "https://www.losnft.io/#/",
+ "description": "The Land of Strife is a virtual war game that pretends to combine the DeFi economic model and blockchain technology.",
+ "explorer": "https://www.oklink.com/okexchain/address/0xcdda4c3131a1da06d26ea56a107fc9f1f7945394",
+ "type": "KIP20",
+ "symbol": "LOS",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcdda4c3131a1da06d26ea56a107fc9f1f7945394"
+}
